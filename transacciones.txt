@@ -1,0 +1,12 @@
+Fecha: Wed Feb 17 16:57:10 2021| Moneda:BTC| Tipo de operaccion: Recibir Moneda| Codigo:2| Cantidad: 2| Monto: 5
+
+Fecha: Wed Feb 17 18:59:00 2021| Codigo con que se inicio sesi�n:1|Codigo con el que se interactuo:2|
+Tipo de operaccion: Recibir Moneda| Moneda:BTC|Cantidad: 2| Monto: 23
+
+Fecha: Wed Feb 17 19:07:12 2021| Codigo con que se inicio sesi�n:1|Codigo con el que se interactuo:2|
+Tipo de operaccion: Recibir Moneda| Moneda:BTC|Cantidad: 0.2| Monto: 23.2
+
+
+
+Fecha: Thu Feb 18 17:10:38 2021| Codigo con que se inicio sesi�n:1|Codigo con el que se interactuo:2|
+Tipo de operaccion: Recibir Moneda| Moneda:BTC|Cantidad: 25.2| Monto: 1311684.74
